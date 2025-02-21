@@ -5,3 +5,6 @@
 ~~~python
 import math
 ~~~
+~~~javascript
+var myVar = "Hello, world!";
+~~~
